@@ -38,6 +38,12 @@ body{
 .city-list td:hover {
     background: #ddd;
 }
+.city-heading{
+    background-color: red;
+    display: flex;
+    flex-direction: row;
+    border-radius: 14px;
+}
 .city-name{
     display: flex;
     flex-direction: row;
@@ -87,7 +93,6 @@ body{
 }
 .weather-icon{
     width: 170px;
-    margin-top: 30px;
 }
 .weather h1{
     font-size: 80px;
