@@ -27,3 +27,10 @@ No framework or library is used currently.
 
 # Brief documentation on the code structure.
 
+There are three folder in this Application
+1.Assets 
+2.login-page
+3.whether-page
+
+
+

@@ -12,7 +12,7 @@ document.getElementById('loginBtn').addEventListener('click', () => {
         alert('Please enter both usersame and password');
     }
     if (validUsers[username] && validUsers[username] === password) {
-        window.location.href = '../whether/whether.html'; // Redirect to weather page on successful login
+        window.location.href = '../whether-page/whether.html'; // Redirect to weather page on successful login
     } else {
         alert('Incorrect Username Or Password');
     }
