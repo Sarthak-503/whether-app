@@ -1,4 +1,4 @@
-const apiKey = "0be4e198ae1e34b7cbb6fd38c9e0812f";
+const apiKey = "";
     const cityBox = document.querySelector(".city-name");
     const weatherIcon = document.querySelector(".weather-icon");
     async function checkwhether(city) {
