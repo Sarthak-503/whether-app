@@ -21,3 +21,8 @@ To use OpenWeatherMap services, you need to create an account and obtain an API 
 3. Right-click on your HTML file in the Explorer panel.
 4. Select Open with Live Server. This will open your HTML file in your default web browser and automatically refresh the page whenever you save changes in VS Code.
 
+# Any libraries or frameworks used in the project.
+No framework or library is used currently.
+
+# Brief documentation on the code structure.
+
